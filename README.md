@@ -29,7 +29,8 @@ Here are some ideas to get you started:
   <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="sass/scss" alt="sass/scss" width="40" height="40"/>&nbsp;
   
 </div>
-----
+___
+
 
 ### 🛠 Инструменты:
 
