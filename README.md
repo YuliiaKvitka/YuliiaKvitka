@@ -1,5 +1,7 @@
 ### Hi, my name is Yuliia! 👋
 
+ I am an aspiring frontend developer. My passion for coding led me to Next.js and I am constantly self-improving my skills and expanding my knowledge. My skills include frontend development using HTML, CSS, SASS/SCSS preprocessors, JavaScript, React.js, Next.js, Tailwind CSS. Currently looking for an opportunity to apply my knowledge and further develop my skills and knowledge.
+
 <!--
 **YuliiaKvitka/YuliiaKvitka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
